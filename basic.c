@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-    int n;
+    int n; // created a new variable 
     printf("************MENU ************");
     printf("PRESS FOLLOWING TO DEMONSTRATE FOLLOWING CONDITIONS");
     printf("Enter First Number: ");
